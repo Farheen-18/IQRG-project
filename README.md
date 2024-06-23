@@ -6,7 +6,7 @@ The project was run on Google Colab. (ipynb extension)
 This is a comparative study of RNN and QRNN forecasting models.
 
 For more details:
-Fore more details about the dataset used, code, etc contact Farheen on Linkedin. 
+For more details about the dataset used, code, etc contact Farheen on Linkedin. 
 
 Team mates : 
 Farheen (https://www.linkedin.com/in/farheen1802)
