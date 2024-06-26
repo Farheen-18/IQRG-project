@@ -15,7 +15,7 @@ About the Program:
 This program was done as a part of a 10 week International Quantum Research Program : "Introduction to Quantum Research For Girls" from April 29 to June 28.
 
 About the organizers:
-Thinking Beyond (Physics Beyond) and Girls In Quantum
+ThinkingBeyond (PhysicsBeyond) and GirlsInQuantum
 
 Permissions:
 Any part of the project can be reused by giving due credits. (Citation)
